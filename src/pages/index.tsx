@@ -73,7 +73,7 @@ export default function Home() {
           <div className='container'>
             <div className='row align-items-center text-white'>
               <div className='col-lg-6'>
-                <h1 className='text-gradient'>@Zombiepepe</h1>
+                <h1 className='text-gradient'>Zombiepepe</h1>
                 <p>Zombiepepe has emerged as the most popular memecoin, surpassing even the beloved dog-themed coins. With its hilarious and relatable memes, Zombiepepe has captured the attention of meme enthusiasts and crypto investors alike. </p>
                 <div className='refer-link d-flex justify-content-between'>
                   <a href='#'>
@@ -149,8 +149,8 @@ export default function Home() {
             </div>
             <div className='col-lg-5'>
               <h1 className='text-gradient'>About Us</h1>
-              <p>Tired of the endless stream of derivative Inu coins that everyone seems to be trading like hot potatoes, Pepe has decided to take matters into his own hands. As the most recognizable meme in the world, he's determined to become the king of the memecoin world.</p>
-              <p>$Zombiepepe is here to revolutionize memecoins, with no presale, zero taxes, and a commitment to being a coin for the people, forever. With a stealth launch, LP burnt, and contract renounced, $PEPE is fueled by pure memetic power. Let Pepe show you the way to memecoin greatness!</p>
+              <p>Tired of the endless stream of derivative Inu coins that everyone seems to be trading like hot potatoes, Pepe has decided to take matters into his own hands. As the most recognizable meme in the world, he is determined to become the king of the memecoin world.</p>
+              <p>Zombiepepe is here to revolutionize memecoins, with no presale, zero taxes, and a commitment to being a coin for the people, forever. With a stealth launch, LP burnt, and contract renounced, Zombiepepe is fueled by pure memetic power. Let Pepe show you the way to memecoin greatness!</p>
              
             </div>
           </div>
@@ -175,21 +175,21 @@ export default function Home() {
                   <div className='a-number'>
                     <Image className="" src={Mint2} alt={""}></Image>
                     <h2>Get Some ETH</h2>
-                    <p>have ETH in your wallet to switch to $Zombiepepe. If you do not have any ETH, you can buy directly on metamask, transfer from another wallet, or buy on another exchange and send it to your wallet.</p>
+                    <p>have ETH in your wallet to switch to Zombiepepe. If you do not have any ETH, you can buy directly on metamask, transfer from another wallet, or buy on another exchange and send it to your wallet.</p>
                   </div>
                 </div>
                 <div className='col-lg-6'>
                   <div className='a-number'>
                     <Image className="" src={Mint3} alt={""}></Image>
                     <h2>Go to Uniswap</h2>
-                    <p>connect to Uniswap. Go to app.uniswap.org in google chrome or on the browser inside your Metamask app. Connect your wallet. Paste the $Zombiepepe token address into Uniswap, select Pepe, and confirm. When Metamask prompts you for a wallet signature, sign.</p>
+                    <p>connect to Uniswap. Go to app.uniswap.org in google chrome or on the browser inside your Metamask app. Connect your wallet. Paste the Zombiepepe token address into Uniswap, select Pepe, and confirm. When Metamask prompts you for a wallet signature, sign.</p>
                   </div>
                 </div>
                 <div className='col-lg-6'>
                   <div className='a-number'>
                     <Image className="" src={Mint3} alt={""}></Image>
-                    <h2>Switch ETH for $Zombiepepe</h2>
-                    <p>switch ETH for $Zombiepepe. We have ZERO taxes so you do not need to worry about buying with a specific slippage, although you may need to use slippage during times of market volatility.</p>
+                    <h2>Switch ETH for Zombiepepe</h2>
+                    <p>switch ETH for Zombiepepe. We have ZERO taxes so you do not need to worry about buying with a specific slippage, although you may need to use slippage during times of market volatility.</p>
                   </div>
                 </div>
               </div>
@@ -232,7 +232,7 @@ export default function Home() {
                 <div className='col-lg-12'>
                   <div className='a-number'>
                     <p>No Taxes, No Bullshit. It is that simple. </p>
-                    <p>3.1% of the tokens were sent to the liquidity pool, LP tokens were burnt, and contract is renounced. The remaining 6.9% of the supply is being held in a multi-sig wallet only to be used as tokens for future centralized exchange listings, bridges, and liquidity pools. This wallet is easily trackable with the ENS name “Zombiepepe.eth”</p>
+                    <p>3.1% of the tokens were sent to the liquidity pool, LP tokens were burnt, and contract is renounced. The remaining 6.9% of the supply is being held in a multi-sig wallet only to be used as tokens for future centralized exchange listings, bridges, and liquidity pools. This wallet is easily trackable with the ENS name Zombiepepe.eth</p>
                   </div>
                 </div>
               </div> 
@@ -250,7 +250,7 @@ export default function Home() {
               <h1 className='text-gradient'>
                 Roadmap
               </h1>
-              <p>All jokes aside, here is a rough sketch of $Zombiepepe path ahead. We dont was not to give everything away on day 1, Expect surprises along the way ;</p>
+              <p>All jokes aside, here is a rough sketch of Zombiepepe path ahead. We dont was not to give everything away on day 1, Expect surprises along the way ;</p>
             </div>
           </div>
           <div className='row'>
@@ -284,7 +284,7 @@ export default function Home() {
                 <h2>Phase 3</h2>
                 <ul>
                   <li>Press Releases and Billboard </li>
-                  <li>Partnerships with VC's</li>
+                  <li>Partnerships with VC</li>
                   <li>LunarCrush Listing</li>
                   <li>T1 Cex Listing </li>
                   <li>Reach 10,000 Holders </li>
@@ -310,7 +310,7 @@ export default function Home() {
         <div className='container'>
           <div className='row'>
             <div className='col-lg-12 text-center'>
-              <h1 className='text-gradient'>Contact $Zombiepepe</h1>
+              <h1 className='text-gradient'>Contact Zombiepepe</h1>
             </div>
           </div>
           <div className='row justify-content-center my-5'>
@@ -328,8 +328,8 @@ export default function Home() {
           </div>
           <div className='row'>
             <div className='col-lg-12 text-center'>
-              <p>$Zombiepepe coin has no association with Matt Furie or his creation Zombiepepe the Frog. This token is simply paying homage to a meme we all love and recognize.</p>
-              <p>$Zombiepepe is a meme coin with no intrinsic value or expectation of financial return. There is no formal team or roadmap. the coin is completely useless and for entertainment purposes only.</p>
+              <p>Zombiepepe coin has no association with Matt Furie or his creation Zombiepepe the Frog. This token is simply paying homage to a meme we all love and recognize.</p>
+              <p>Zombiepepe is a meme coin with no intrinsic value or expectation of financial return. There is no formal team or roadmap. the coin is completely useless and for entertainment purposes only.</p>
             </div>
           </div>
         </div>
