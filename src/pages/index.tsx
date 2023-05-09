@@ -151,32 +151,7 @@ export default function Home() {
               <h1 className='text-gradient'>About Us</h1>
               <p>Tired of the endless stream of derivative Inu coins that everyone seems to be trading like hot potatoes, Pepe has decided to take matters into his own hands. As the most recognizable meme in the world, he's determined to become the king of the memecoin world.</p>
               <p>$Zombiepepe is here to revolutionize memecoins, with no presale, zero taxes, and a commitment to being a coin for the people, forever. With a stealth launch, LP burnt, and contract renounced, $PEPE is fueled by pure memetic power. Let Pepe show you the way to memecoin greatness!</p>
-              <div className='row'>
-                <div className='col-lg-6'>
-                  <div className='a-number'>
-                    <h2>420,000,000...</h2>
-                    <p>Supply</p>
-                  </div>
-                </div>
-                <div className='col-lg-6'>
-                  <div className='a-number'>
-                    <h2>4 Buy 4 Sell</h2>
-                    <p>Tax </p>
-                  </div>
-                </div>
-                <div className='col-lg-6'>
-                  <div className='a-number'>
-                    <h2>3%</h2>
-                    <p>Marketing</p>
-                  </div>
-                </div>
-                <div className='col-lg-6'>
-                  <div className='a-number'>
-                    <h2>1%</h2>
-                    <p>Lp</p>
-                  </div>
-                </div>
-              </div>
+             
             </div>
           </div>
         </div>
@@ -285,7 +260,7 @@ export default function Home() {
                 <ul>
                   <li>Socials Creation</li>
                   <li>Fairlaunch on Pinksale</li>
-                  <li>CMC & CG</li>
+                  <li>CMC and CG</li>
                   <li>Global Marketing Campaign</li>
                   <li>Social Media Ads Campaign</li>
                 </ul>
@@ -308,7 +283,7 @@ export default function Home() {
               <div className='a-number'>
                 <h2>Phase 3</h2>
                 <ul>
-                  <li>Press Releases & Billboard </li>
+                  <li>Press Releases and Billboard </li>
                   <li>Partnerships with VC's</li>
                   <li>LunarCrush Listing</li>
                   <li>T1 Cex Listing </li>
@@ -323,7 +298,7 @@ export default function Home() {
                   <li>Sponsorship and Partnership Worldwide</li>
                   <li>Zombie-Pepe  Metaverse development</li>
                   <li>p2e Game development </li>
-                  <li>Paid Marketing & Media Campaign</li>
+                  <li>Paid Marketing and Media Campaign</li>
                   <li>All features released</li>
                 </ul>
               </div>
