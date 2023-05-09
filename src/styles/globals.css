@@ -135,6 +135,10 @@ section{
   flex-direction: column-reverse !important;
 }
 
+.websites a{
+  width: 100%;
+}
+
 }
 
 .howtobuy img{

@@ -174,22 +174,22 @@ export default function Home() {
                 <div className='col-lg-6'>
                   <div className='a-number'>
                     <Image className="" src={Mint2} alt={""}></Image>
-                    <h2>Get Some ETH</h2>
-                    <p>have ETH in your wallet to switch to Zombiepepe. If you do not have any ETH, you can buy directly on metamask, transfer from another wallet, or buy on another exchange and send it to your wallet.</p>
+                    <h2>Get Some BNB</h2>
+                    <p>have BNB in your wallet to switch to Zombiepepe. If you do not have any BNB, you can buy directly on metamask, transfer from another wallet, or buy on another exchange and send it to your wallet.</p>
                   </div>
                 </div>
                 <div className='col-lg-6'>
                   <div className='a-number'>
                     <Image className="" src={Mint3} alt={""}></Image>
-                    <h2>Go to Uniswap</h2>
-                    <p>connect to Uniswap. Go to app.uniswap.org in google chrome or on the browser inside your Metamask app. Connect your wallet. Paste the Zombiepepe token address into Uniswap, select Pepe, and confirm. When Metamask prompts you for a wallet signature, sign.</p>
+                    <h2>Go to Pancakeswap</h2>
+                    <p>connect to pancakeswap. Go to app.uniswap.org in google chrome or on the browser inside your Metamask app. Connect your wallet. Paste the Zombiepepe token address into pancakeswap, select Pepe, and confirm. When Metamask prompts you for a wallet signature, sign.</p>
                   </div>
                 </div>
                 <div className='col-lg-6'>
                   <div className='a-number'>
                     <Image className="" src={Mint3} alt={""}></Image>
-                    <h2>Switch ETH for Zombiepepe</h2>
-                    <p>switch ETH for Zombiepepe. We have ZERO taxes so you do not need to worry about buying with a specific slippage, although you may need to use slippage during times of market volatility.</p>
+                    <h2>Switch BNB for Zombiepepe</h2>
+                    <p>switch BNB for Zombiepepe. We have ZERO taxes so you do not need to worry about buying with a specific slippage, although you may need to use slippage during times of market volatility.</p>
                   </div>
                 </div>
               </div>
@@ -232,7 +232,7 @@ export default function Home() {
                 <div className='col-lg-12'>
                   <div className='a-number'>
                     <p>No Taxes, No Bullshit. It is that simple. </p>
-                    <p>3.1% of the tokens were sent to the liquidity pool, LP tokens were burnt, and contract is renounced. The remaining 6.9% of the supply is being held in a multi-sig wallet only to be used as tokens for future centralized exchange listings, bridges, and liquidity pools. This wallet is easily trackable with the ENS name Zombiepepe.eth</p>
+                    <p>3.1% of the tokens were sent to the liquidity pool, LP tokens were burnt, and contract is renounced. The remaining 6.9% of the supply is being held in a multi-sig wallet only to be used as tokens for future centralized exchange listings, bridges, and liquidity pools. This wallet is easily trackable with the ENS name Zombiepepe.BNB</p>
                   </div>
                 </div>
               </div> 
