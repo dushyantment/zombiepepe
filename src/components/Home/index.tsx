@@ -23,6 +23,7 @@ import Mint1 from "../../assest/img/mint-01.png";
 import Mint2 from "../../assest/img/mint-02.png";
 import Mint3 from "../../assest/img/mint-03.png";
 import TokenImg from "../../assest/img/token.png";
+import Link from "next/link";
 
 const Home = () => {
   return (
@@ -40,50 +41,50 @@ const Home = () => {
                   attention of meme enthusiasts and crypto investors alike.{" "}
                 </p>
                 <div className="refer-link d-flex justify-content-between">
-                  <a href="/">
+                  <Link href="/">
                     <Image className="" src={ReferW1} alt={""}></Image>
-                  </a>
-                  <a href="/">
+                  </Link>
+                  <Link href="/">
                     <Image className="" src={ReferW2} alt={""}></Image>
-                  </a>
-                  <a href="/">
+                  </Link>
+                  <Link href="/">
                     <Image className="" src={ReferW3} alt={""}></Image>
-                  </a>
-                  <a href="/">
+                  </Link>
+                  <Link href="/">
                     <Image className="" src={ReferW4} alt={""}></Image>
-                  </a>
-                  <a href="/">
+                  </Link>
+                  <Link href="/">
                     <Image className="" src={ReferW5} alt={""}></Image>
-                  </a>
-                  <a href="/">
+                  </Link>
+                  <Link href="/">
                     <Image className="" src={ReferW6} alt={""}></Image>
-                  </a>
+                  </Link>
                 </div>
                 <div className="websites d-flex flex-wrap flex-row justify-content-start gap-2 mt-5">
-                  <a href="/">
+                  <Link href="/">
                     <Image className="orks" src={websitess1} alt={""}></Image>
-                  </a>
-                  <a href="/">
+                  </Link>
+                  <Link href="/">
                     <Image className="orks" src={websitess2} alt={""}></Image>
-                  </a>
-                  <a href="/">
+                  </Link>
+                  <Link href="/">
                     <Image className="orks" src={websitess3} alt={""}></Image>
-                  </a>
-                  <a href="/">
+                  </Link>
+                  <Link href="/">
                     <Image className="orks" src={websitess4} alt={""}></Image>
-                  </a>
-                  <a href="/">
+                  </Link>
+                  <Link href="/">
                     <Image className="orks" src={websitess5} alt={""}></Image>
-                  </a>
-                  <a href="/">
+                  </Link>
+                  <Link href="/">
                     <Image className="orks" src={websitess6} alt={""}></Image>
-                  </a>
-                  <a href="/">
+                  </Link>
+                  <Link href="/">
                     <Image className="orks" src={websitess7} alt={""}></Image>
-                  </a>
-                  <a href="/">
+                  </Link>
+                  <Link href="/">
                     <Image className="orks" src={websitess8} alt={""}></Image>
-                  </a>
+                  </Link>
                 </div>
               </div>
               <div className="col-lg-6 text-center">
