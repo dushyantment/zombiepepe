@@ -40,48 +40,48 @@ const Home = () => {
                   attention of meme enthusiasts and crypto investors alike.{" "}
                 </p>
                 <div className="refer-link d-flex justify-content-between">
-                  <a href="https://twitter.com/pepecoineth">
+                  <a href="/">
                     <Image className="" src={ReferW1} alt={""}></Image>
                   </a>
-                  <a href="https://t.me/pepecoineth">
+                  <a href="/">
                     <Image className="" src={ReferW2} alt={""}></Image>
                   </a>
-                  <a href="https://etherscan.io/address/0x6982508145454Ce325dDbE47a25d4ec3d2311933">
+                  <a href="/">
                     <Image className="" src={ReferW3} alt={""}></Image>
                   </a>
-                  <a href="https://www.dextools.io/app/en/ether/pair-explorer/0xA43fe16908251ee70EF74718545e4FE6C5cCEc9f">
+                  <a href="/">
                     <Image className="" src={ReferW4} alt={""}></Image>
                   </a>
-                  <a href="https://coinmarketcap.com/currencies/pepe/">
+                  <a href="/">
                     <Image className="" src={ReferW5} alt={""}></Image>
                   </a>
-                  <a href="https://app.uniswap.org/#/swap?inputCurrency=ETH&outputCurrency=0x6982508145454Ce325dDbE47a25d4ec3d2311933">
+                  <a href="/">
                     <Image className="" src={ReferW6} alt={""}></Image>
                   </a>
                 </div>
                 <div className="websites d-flex flex-wrap flex-row justify-content-start gap-2 mt-5">
-                  <a href="https://coinmarketcap.com/currencies/pepe-ai-token/">
+                  <a href="/">
                     <Image className="orks" src={websitess1} alt={""}></Image>
                   </a>
-                  <a href="https://www.dexview.com/bsc/0x1b9DEc855E98d1c01426a3eD615dd25d2947290E">
+                  <a href="/">
                     <Image className="orks" src={websitess2} alt={""}></Image>
                   </a>
-                  <a href="https://www.coingecko.com/">
+                  <a href="/">
                     <Image className="orks" src={websitess3} alt={""}></Image>
                   </a>
-                  <a href="https://dappradar.com/">
+                  <a href="/">
                     <Image className="orks" src={websitess4} alt={""}></Image>
                   </a>
-                  <a href="https://bscscan.com/token/0x1b9DEc855E98d1c01426a3eD615dd25d2947290E">
+                  <a href="/">
                     <Image className="orks" src={websitess5} alt={""}></Image>
                   </a>
-                  <a href="https://www.dextools.io/app/en/ETH/pair-explorer/0xf2c35be19458a875de7c0bd62d4338388a6dd1f2">
+                  <a href="/">
                     <Image className="orks" src={websitess6} alt={""}></Image>
                   </a>
-                  <a href="https://coinsniper.net/coin/47173">
+                  <a href="/">
                     <Image className="orks" src={websitess7} alt={""}></Image>
                   </a>
-                  <a href="https://www.pinksale.finance/launchpad/0x19f60616e86EA61f4d31D24256A36b1a72710d69?chain=BSC&refId=0x6d3062399f6229db8B58E68E1aD767FC6bBB4410">
+                  <a href="/">
                     <Image className="orks" src={websitess8} alt={""}></Image>
                   </a>
                 </div>
@@ -212,7 +212,7 @@ const Home = () => {
                     <p>Lp</p>
                   </div>
                 </div>
-                <div className="col-lg-12">
+                {/*}  <div className="col-lg-12">
                   <div className="a-number">
                     <p>No Taxes, No Bullshit. It is that simple. </p>
                     <p>
@@ -225,7 +225,7 @@ const Home = () => {
                       Zombiepepe.ETH
                     </p>
                   </div>
-                </div>
+                </div>*/}
               </div>
             </div>
             <div className="col-lg-6 text-center">

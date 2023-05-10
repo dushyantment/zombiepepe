@@ -18,16 +18,16 @@ export default function Footer() {
             </div>
           </div>
           <div className="row justify-content-center my-5">
-            <div className="col-lg-4 d-flex justify-content-around">
-              <a href="https://twitter.com/pepecoineth">
+            <div className="col-lg-4 d-flex justify-content-evenly">
+              <a href="https://twitter.com/ZombiePepe_BSC/photo">
                 <Image className="" src={Fsocail1} alt={""}></Image>
               </a>
-              <a href="https://t.me/pepecoineth">
+              <a href="https://t.me/ZombiePepePortal">
                 <Image className="" src={Fsocail2} alt={""}></Image>
               </a>
-              <a href="#">
+              {/*<a href="#">
                 <Image className="" src={Fsocail3} alt={""}></Image>
-              </a>
+              </a>*/}
             </div>
           </div>
           <div className="row">
