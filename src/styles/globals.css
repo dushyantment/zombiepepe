@@ -244,3 +244,6 @@ footer {
   background-color: var(--bs-btn-hover-bg);
   border-color: var(--bs-btn-hover-border-color);
 }
+.bg-blues {
+  background-color: #201212;
+}
