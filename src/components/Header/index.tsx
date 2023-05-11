@@ -37,35 +37,35 @@ const Header = () => {
                   <Link
                     className="nav-link text-white active"
                     aria-current="page"
-                    href="#"
+                    href="/"
                   >
                     HOME
                   </Link>
                 </li>
                 <li className="nav-item">
-                  <Link className="nav-link text-white" href="#">
+                  <Link className="nav-link text-white" href="#about">
                     ABOUT
                   </Link>
                 </li>
                 <li className="nav-item">
-                  <Link className="nav-link text-white" href="#">
+                  <Link className="nav-link text-white" href="#how-to-buy">
                     HOW TO BUY
                   </Link>
                 </li>
                 <li className="nav-item">
-                  <Link className="nav-link text-white" href="#">
+                  <Link className="nav-link text-white" href="#tokenomics">
                     TOKENOMICS
                   </Link>
                 </li>
                 <li className="nav-item">
-                  <Link className="nav-link text-white" href="#">
+                  <Link className="nav-link text-white" href="#roadmap">
                     ROADMAP
                   </Link>
                 </li>
                 <li className="nav-item">
                   <Link
                     className="nav-link text-white btn btn-outline-light"
-                    href="#"
+                    href="/"
                   >
                     Buy Now
                   </Link>
@@ -80,37 +80,55 @@ const Header = () => {
           <ul className="navbar-nav ms-auto mb-2 mb-lg-0 ">
             <li className="nav-item">
               <Link
+                onClick={handleLink}
                 className="nav-link text-white active"
                 aria-current="page"
-                href="#"
+                href="/"
               >
                 HOME
               </Link>
             </li>
             <li className="nav-item">
-              <Link className="nav-link text-white" href="#">
+              <Link
+                className="nav-link text-white"
+                href="#about"
+                onClick={handleLink}
+              >
                 ABOUT
               </Link>
             </li>
             <li className="nav-item">
-              <Link className="nav-link text-white" href="#">
+              <Link
+                className="nav-link text-white"
+                href="#how-to-buy"
+                onClick={handleLink}
+              >
                 HOW TO BUY
               </Link>
             </li>
             <li className="nav-item">
-              <Link className="nav-link text-white" href="#">
+              <Link
+                className="nav-link text-white"
+                href="#tokenomics"
+                onClick={handleLink}
+              >
                 TOKENOMICS
               </Link>
             </li>
             <li className="nav-item">
-              <Link className="nav-link text-white" href="#">
+              <Link
+                className="nav-link text-white"
+                href="#roadmap"
+                onClick={handleLink}
+              >
                 ROADMAP
               </Link>
             </li>
             <li className="nav-item">
               <Link
                 className="nav-link text-white btn btn-outline-light"
-                href="#"
+                href="/"
+                onClick={handleLink}
               >
                 Buy Now
               </Link>

@@ -95,7 +95,7 @@ const Home = () => {
           </div>
         </div>
       </section>
-      <section className="about pb-0 p-y-100">
+      <section className="about pb-0 p-y-100" id="about">
         <div className="container">
           <div className="row align-items-center row-reverse">
             <div className="col-lg-7">
@@ -121,7 +121,7 @@ const Home = () => {
           </div>
         </div>
       </section>
-      <section className="howtobuy p-y-100">
+      <section className="howtobuy p-y-100" id="how-to-buy">
         <div className="container">
           <div className="row mb-5">
             <div className="col-lg-12 text-center">
@@ -180,7 +180,7 @@ const Home = () => {
           </div>
         </div>
       </section>
-      <section className="tokenomics pb-0 p-y-100">
+      <section className="tokenomics pb-0 p-y-100" id="tokenomics">
         <div className="container">
           <div className="row mb-5 align-items-center">
             <div className="col-lg-12 text-center">
@@ -236,7 +236,7 @@ const Home = () => {
           </div>
         </div>
       </section>
-      <section className="roadmap p-y-100">
+      <section className="roadmap p-y-100" id="roadmap">
         <div className="container">
           <div className="row justify-content-center">
             <div className="col-lg-8 text-center">
