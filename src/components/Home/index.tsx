@@ -73,18 +73,19 @@ const Home = () => {
                   <Link href="/">
                     <Image className="orks" src={websitess4} alt={""}></Image>
                   </Link>
-                  <Link href="/">
-                    <Image className="orks" src={websitess5} alt={""}></Image>
-                  </Link>
+
                   <Link href="/">
                     <Image className="orks" src={websitess6} alt={""}></Image>
                   </Link>
                   <Link href="/">
                     <Image className="orks" src={websitess7} alt={""}></Image>
                   </Link>
+                  {/*  <Link href="/">
+                    <Image className="orks" src={websitess5} alt={""}></Image>
+                  </Link>
                   <Link href="/">
                     <Image className="orks" src={websitess8} alt={""}></Image>
-                  </Link>
+                  </Link>*/}
                 </div>
               </div>
               <div className="col-lg-6 text-center">
@@ -154,13 +155,13 @@ const Home = () => {
             <div className="col-lg-6">
               <div className="a-number">
                 <Image className="" src={Mint3} alt={""}></Image>
-                <h2>Go to Pancakeswap</h2>
+                <h2>Go to Uniswap</h2>
                 <p>
-                  connect to pancakeswap. Go to app.uniswap.org in google chrome
-                  or on the browser inside your Metamask app. Connect your
-                  wallet. Paste the Zombiepepe token address into pancakeswap,
-                  select Pepe, and confirm. When Metamask prompts you for a
-                  wallet signature, sign.
+                  Go to app.uniswap.org in google chrome or on the browser
+                  inside your Metamask app. Connect your wallet. Paste the
+                  Zombiepepe token address into pancakeswap, select Pepe, and
+                  confirm. When Metamask prompts you for a wallet signature,
+                  sign.
                 </p>
               </div>
             </div>
