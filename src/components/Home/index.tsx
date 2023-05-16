@@ -254,7 +254,7 @@ const Home = () => {
                 <h2>Phase 1</h2>
                 <ul>
                   <li>Socials Creation</li>
-                  <li>Fairlaunch on Pinksale</li>
+                  <li>Stealth Launch</li>
                   <li>CMC and CG</li>
                   <li>Global Marketing Campaign</li>
                   <li>Social Media Ads Campaign</li>
