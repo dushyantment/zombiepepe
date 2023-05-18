@@ -45,7 +45,7 @@ const Home = () => {
                   attention of meme enthusiasts and crypto investors alike.{" "}
                 </p>
                 <div className="refer-link d-flex justify-content-between">
-                  <Link href="/">
+                  <Link href="https://twitter.com/ZombiePepe_ERC" target="_blank">
                     <Image className="" src={ReferW1} alt={""}></Image>
                   </Link>
                   <Link href="/">
