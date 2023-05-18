@@ -35,6 +35,10 @@ const Home = () => {
               <div className="col-lg-6">
                 <h1 className="text-gradient">Zombiepepe</h1>
                 <p>
+                  <span className="fw-bold">Contract: </span>{" "}
+                  0xD88AB21e4Ff6B97aEfAB22612032152c9A8Ff94F
+                </p>
+                <p>
                   Zombiepepe has emerged as the most popular memecoin,
                   surpassing even the beloved dog-themed coins. With its
                   hilarious and relatable memes, Zombiepepe has captured the
