@@ -19,7 +19,7 @@ export default function Footer() {
           </div>
           <div className="row justify-content-center my-5">
             <div className="col-lg-4 d-flex justify-content-evenly">
-              <a href="https://twitter.com/ZombiePepe_BSC/photo">
+              <a href="https://twitter.com/ZombiePepe_ERC">
                 <Image className="" src={Fsocail1} alt={""}></Image>
               </a>
               <a href="https://t.me/ZombiePepePortal">
